@@ -1,0 +1,2 @@
+2020-05-12 06:43:45.4315||DEBUG|ItemsService.Program|init main function |url: |action: 
+2020-05-12 06:43:52.6102|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/weatherforecast|action: 
